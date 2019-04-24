@@ -37,7 +37,7 @@
         app:layout_constraintStart_toStartOf="@id/text"
         app:layout_constraintEnd_toStartOf="@id/value"
         app:layout_constraintWidth_default="percent"
-        app:layout_constraintWidth_percent="0.5"
+        app:layout_constraintWidth_percent="1.0"
         app:layout_constraintHorizontal_bias="0.0"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
