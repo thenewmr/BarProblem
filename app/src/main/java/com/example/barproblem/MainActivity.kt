@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
 
         params.matchConstraintPercentWidth = 1.0.toFloat()
 
-        // the following line "works" but feels a bit hacky.  Just basically tries to reduce the overall the value
+        // the following line "works" but feels a bit hacky.  Just basically tries to reduce the overall value
         // I feel like there should be a better way
         //params.matchConstraintPercentWidth = 1.0.toFloat() * 0.8.toFloat()
 
